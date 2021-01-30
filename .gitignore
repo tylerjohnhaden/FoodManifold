@@ -1,0 +1,10 @@
+allrecipe_recipe_htmls/
+brownie_data/
+all_data_sample_100/
+allrecipes.db
+food_product_list.json
+
+venv/
+__pycache__/
+
+.idea/*
