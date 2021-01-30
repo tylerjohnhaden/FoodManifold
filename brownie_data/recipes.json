@@ -1,0 +1,576 @@
+[
+  {
+    "name": "Quick and Easy Brownies",
+    "description": "Takes about 45 minutes to make.",
+    "recipeInstructions": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan.",
+      "Combine the melted butter, sugar, cocoa powder, vanilla, eggs, flour, baking powder, and salt. Spread the batter into the prepared pan. Decorate with walnut halves, if desired.",
+      "Bake in preheated oven for 20 to 30 minutes or until a toothpick inserted in the center comes out with crumbs, not wet. Cool on wire rack."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 20,
+    "totalTimeMinutes": 35,
+    "energyContentCalories": 229.0,
+    "fatContentGrams": 12.2,
+    "carbohydrateContentGrams": 28.8,
+    "proteinContentGrams": 3.1,
+    "cholesterolContentMilligrams": 61.6,
+    "sodiumContentMilligrams": 150.4,
+    "ingredients": [
+      [
+        236.5,
+        "butter, melted (mL)"
+      ],
+      [
+        473.0,
+        "sugar (mL)"
+      ],
+      [
+        118.25,
+        "cocoa powder (mL)"
+      ],
+      [
+        5.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        4.0,
+        "egg (unit)"
+      ],
+      [
+        354.75,
+        "all-purpose flour (mL)"
+      ],
+      [
+        2.5,
+        "baking powder (mL)"
+      ],
+      [
+        2.5,
+        "salt (mL)"
+      ],
+      [
+        118.25,
+        "walnut halves (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Best Brownies",
+    "description": "These brownies always turn out!",
+    "recipeInstructions": [
+      "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.",
+      "In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan.",
+      "Bake in preheated oven for 25 to 30 minutes. Do not overcook.",
+      "To Make Frosting:  Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm."
+    ],
+    "prepTimeMinutes": 25,
+    "cookTimeMinutes": 35,
+    "totalTimeMinutes": 60,
+    "energyContentCalories": 182.7,
+    "fatContentGrams": 9.0,
+    "carbohydrateContentGrams": 25.7,
+    "proteinContentGrams": 1.8,
+    "cholesterolContentMilligrams": 44.2,
+    "sodiumContentMilligrams": 109.7,
+    "ingredients": [
+      [
+        118.25,
+        "butter (mL)"
+      ],
+      [
+        236.5,
+        "sugar (mL)"
+      ],
+      [
+        2.0,
+        "egg (unit)"
+      ],
+      [
+        5.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        78.8255,
+        "cocoa powder (mL)"
+      ],
+      [
+        118.25,
+        "all-purpose flour (mL)"
+      ],
+      [
+        1.25,
+        "salt (mL)"
+      ],
+      [
+        1.25,
+        "baking powder (mL)"
+      ],
+      [
+        45.0,
+        "butter, softened (mL)"
+      ],
+      [
+        45.0,
+        "cocoa powder (mL)"
+      ],
+      [
+        15.0,
+        "honey (mL)"
+      ],
+      [
+        5.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        236.5,
+        "powdered sugar (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Chocolate Chocolate Chip Cookies I",
+    "description": "These cookies are great...you get a double dose of chocolate! My kids love them.",
+    "recipeInstructions": [
+      "Preheat oven to 350 degrees F (175 degrees C).",
+      "In large bowl, beat butter, sugar, eggs, and vanilla until light and fluffy. Combine the flour, cocoa, baking soda, and salt; stir into the butter mixture until well blended. Mix in the chocolate chips and walnuts. Drop by rounded teaspoonfuls onto ungreased cookie sheets.",
+      "Bake for 8 to 10 minutes in the preheated oven, or just until set. Cool slightly on the cookie sheets before transferring to wire racks to cool completely."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 10,
+    "totalTimeMinutes": 45,
+    "energyContentCalories": 124.7,
+    "fatContentGrams": 7.1,
+    "carbohydrateContentGrams": 15.5,
+    "proteinContentGrams": 1.5,
+    "cholesterolContentMilligrams": 17.9,
+    "sodiumContentMilligrams": 63.1,
+    "ingredients": [
+      [
+        236.5,
+        "butter, softened (mL)"
+      ],
+      [
+        354.75,
+        "sugar (mL)"
+      ],
+      [
+        2.0,
+        "egg (unit)"
+      ],
+      [
+        10.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        473.0,
+        "all-purpose flour (mL)"
+      ],
+      [
+        157.6745,
+        "cocoa powder (mL)"
+      ],
+      [
+        3.75,
+        "baking soda (mL)"
+      ],
+      [
+        1.25,
+        "salt (mL)"
+      ],
+      [
+        473.0,
+        "semisweet chocolate chips (mL)"
+      ],
+      [
+        118.25,
+        "chopped walnuts (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Zucchini Brownies",
+    "description": "Moist chocolate brownies with frosting!",
+    "recipeInstructions": [
+      "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan.",
+      "In a large bowl, mix together the oil, sugar and 2 teaspoons vanilla until well blended. Combine the flour, 1/2 cup cocoa, baking soda  and salt; stir into the sugar mixture. Fold in the zucchini and walnuts. Spread evenly into the prepared pan.",
+      "Bake for 25 to 30 minutes in the preheated oven, until brownies spring back when gently touched.",
+      "Make frosting while brownies cool. Melt together the 6 tablespoons of cocoa and margarine; set aside to cool.",
+      "Meanwhile, blend together the confectioners' sugar, milk and 1/2 teaspoon vanilla. Stir in the cocoa mixture. Spread over cooled brownies before cutting into squares."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 30,
+    "totalTimeMinutes": 45,
+    "energyContentCalories": 209.2,
+    "fatContentGrams": 8.6,
+    "carbohydrateContentGrams": 32.9,
+    "proteinContentGrams": 2.3,
+    "cholesterolContentMilligrams": 0.2,
+    "sodiumContentMilligrams": 199.9,
+    "ingredients": [
+      [
+        118.25,
+        "vegetable oil (mL)"
+      ],
+      [
+        354.75,
+        "sugar (mL)"
+      ],
+      [
+        10.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        473.0,
+        "all-purpose flour (mL)"
+      ],
+      [
+        118.25,
+        "cocoa powder (mL)"
+      ],
+      [
+        7.5,
+        "baking soda (mL)"
+      ],
+      [
+        5.0,
+        "salt (mL)"
+      ],
+      [
+        473.0,
+        "shredded zucchini (mL)"
+      ],
+      [
+        118.25,
+        "chopped walnuts (mL)"
+      ],
+      [
+        90.0,
+        "cocoa powder (mL)"
+      ],
+      [
+        59.125,
+        "margarine (mL)"
+      ],
+      [
+        473.0,
+        "powdered sugar (mL)"
+      ],
+      [
+        59.125,
+        "milk (mL)"
+      ],
+      [
+        2.5,
+        "vanilla extract (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Salted Chocolate Cookies",
+    "description": "The addition of sea salt takes these big, soft, chocolaty, fudgy cookies to another level. Chocolate lovers will find these cookies irresistible.",
+    "recipeInstructions": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Line 2 large baking sheets with parchment paper and spray with cooking spray.",
+      "Combine flour, cocoa powder, baking powder and 1/2 teaspoon sea salt in a bowl.",
+      "Place butter in a saucepan over low heat and cook until melted, 3 to 5 minutes. Add chocolate chips and stir until completely melted. Remove from the heat.",
+      "Combine brown sugar, white sugar, eggs, and vanilla extract in a bowl and beat with an electric mixer until creamy. Pour a small amount of the chocolate mixture into the egg mixture and stir until well combined. Slowly add remaining chocolate mixture, stirring constantly so the eggs don't curdle. Fold in the flour mixture until just combined. Do not overmix.",
+      "Drop 6 large scoops of batter about 2 inches apart onto each of the prepared baking sheets.",
+      "Bake in the preheated oven until cookies have spread and flattened to a diameter of 4 1/2 inches or larger, and the tops are crinkled and puffed, 12 to 14 minutes. Immediately sprinkle with sea salt.",
+      "Place baking sheets on a wire rack and cool for 18 to 20 minutes. Remove cookies with a spatula onto serving platter."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 20,
+    "totalTimeMinutes": 50,
+    "energyContentCalories": 236.4,
+    "fatContentGrams": 12.0,
+    "carbohydrateContentGrams": 32.0,
+    "proteinContentGrams": 3.0,
+    "cholesterolContentMilligrams": 51.3,
+    "sodiumContentMilligrams": 624.1,
+    "ingredients": [
+      [
+        1.0,
+        "nonstick cooking spray (serving)"
+      ],
+      [
+        236.5,
+        "all-purpose flour (mL)"
+      ],
+      [
+        59.125,
+        "cocoa powder (mL)"
+      ],
+      [
+        5.0,
+        "baking powder (mL)"
+      ],
+      [
+        2.5,
+        "sea salt (mL)"
+      ],
+      [
+        118.25,
+        "butter, cut into chunks (mL)"
+      ],
+      [
+        177.375,
+        "semisweet chocolate chips (mL)"
+      ],
+      [
+        157.6745,
+        "brown sugar (mL)"
+      ],
+      [
+        118.25,
+        "sugar (mL)"
+      ],
+      [
+        2.0,
+        "egg (unit)"
+      ],
+      [
+        5.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        15.0,
+        "sea salt (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Chocolate Crinkles II",
+    "description": "Chocolate cookies coated in confectioners' sugar...very good!",
+    "recipeInstructions": [
+      "In a medium bowl, mix together cocoa, white sugar, and vegetable oil.  Beat in eggs one at a time, then stir in the vanilla. Combine the flour, baking powder, and salt; stir into the cocoa mixture. Cover dough, and chill for at least 4 hours.",
+      "Preheat oven to 350 degrees F (175 degrees C). Line cookie sheets with parchment paper. Roll dough into one inch balls. I like to use a number 50 size scoop. Coat each ball in confectioners' sugar before placing onto prepared cookie sheets.",
+      "Bake in preheated oven for 10 to 12 minutes. Let stand on the cookie sheet for a minute before transferring to wire racks to cool."
+    ],
+    "prepTimeMinutes": 20,
+    "cookTimeMinutes": 12,
+    "totalTimeMinutes": 300,
+    "energyContentCalories": 58.0,
+    "fatContentGrams": 2.0,
+    "carbohydrateContentGrams": 9.8,
+    "proteinContentGrams": 0.9,
+    "cholesterolContentMilligrams": 10.3,
+    "sodiumContentMilligrams": 33.9,
+    "ingredients": [
+      [
+        236.5,
+        "cocoa powder (mL)"
+      ],
+      [
+        473.0,
+        "sugar (mL)"
+      ],
+      [
+        118.25,
+        "vegetable oil (mL)"
+      ],
+      [
+        4.0,
+        "egg (unit)"
+      ],
+      [
+        10.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        473.0,
+        "all-purpose flour (mL)"
+      ],
+      [
+        10.0,
+        "baking powder (mL)"
+      ],
+      [
+        2.5,
+        "salt (mL)"
+      ],
+      [
+        118.25,
+        "powdered sugar (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Blonde Brownies I",
+    "description": "Rich, chewy brownie with chocolate chips on top.",
+    "recipeInstructions": [
+      "Preheat oven to 350 degrees F (180 degrees C). Grease a 9x9-inch baking pan.",
+      "Measure 1 cup sifted flour. Add baking powder, baking soda, and salt.  Sift again. Add 1/2 cup chopped nuts. Mix well and set aside.",
+      "Stir the brown sugar into the melted butter and mix well. Cool slightly.",
+      "Mix the beaten egg and vanilla into the brown sugar mixture. Add flour mixture, a little at a time, mixing just until combined.",
+      "Spread the batter into the prepared pan. Sprinkle 1/2 to 1 cup chocolate chips on top.  Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 20 to 25 minutes."
+    ],
+    "prepTimeMinutes": 30,
+    "cookTimeMinutes": 20,
+    "totalTimeMinutes": 50,
+    "energyContentCalories": 477.1,
+    "fatContentGrams": 23.2,
+    "carbohydrateContentGrams": 65.4,
+    "proteinContentGrams": 5.6,
+    "cholesterolContentMilligrams": 58.1,
+    "sodiumContentMilligrams": 358.1,
+    "ingredients": [
+      [
+        236.5,
+        "all-purpose flour (mL)"
+      ],
+      [
+        2.5,
+        "baking powder (mL)"
+      ],
+      [
+        0.625,
+        "baking soda (mL)"
+      ],
+      [
+        2.5,
+        "salt (mL)"
+      ],
+      [
+        118.25,
+        "chopped walnuts (mL)"
+      ],
+      [
+        78.8255,
+        "butter, melted (mL)"
+      ],
+      [
+        236.5,
+        "brown sugar (mL)"
+      ],
+      [
+        1.0,
+        "egg, beaten (unit)"
+      ],
+      [
+        15.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        157.6745,
+        "semisweet chocolate chips (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Chewy Chocolate Cookies II",
+    "description": "Delicious cookies that taste like brownies.",
+    "recipeInstructions": [
+      "Preheat oven to 350 degrees F (175 degrees C).",
+      "In a large bowl, cream together margarine and sugar until smooth. Beat in eggs one at a time, then stir in the vanilla. Combine flour, cocoa, baking soda, and salt; stir into the creamed mixture until just blended. Mix in walnuts. Drop by spoonfuls onto ungreased cookie sheets.",
+      "Bake for 8 to 10 minutes in the preheated oven. Cool for a couple of minutes on the cookie sheet before transferring to wire racks to cool completely."
+    ],
+    "prepTimeMinutes": 15,
+    "cookTimeMinutes": 9,
+    "totalTimeMinutes": 45,
+    "energyContentCalories": 115.5,
+    "fatContentGrams": 6.7,
+    "carbohydrateContentGrams": 13.5,
+    "proteinContentGrams": 1.5,
+    "cholesterolContentMilligrams": 7.8,
+    "sodiumContentMilligrams": 90.4,
+    "ingredients": [
+      [
+        295.625,
+        "margarine, softened (mL)"
+      ],
+      [
+        473.0,
+        "sugar (mL)"
+      ],
+      [
+        2.0,
+        "egg (unit)"
+      ],
+      [
+        10.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        473.0,
+        "all-purpose flour (mL)"
+      ],
+      [
+        177.375,
+        "cocoa powder (mL)"
+      ],
+      [
+        5.0,
+        "baking soda (mL)"
+      ],
+      [
+        0.625,
+        "salt (mL)"
+      ],
+      [
+        236.5,
+        "chopped walnuts (mL)"
+      ]
+    ]
+  },
+  {
+    "name": "Best Big, Fat, Chewy Chocolate Chip Cookie",
+    "description": "These cookies are the pinnacle of perfection! If you want a big, fat, chewy cookie like the kind you see at bakeries and specialty shops, then these are the cookies for you!",
+    "recipeInstructions": [
+      "Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets or line with parchment paper.",
+      "Sift together the flour, baking soda and salt; set aside.",
+      "In a medium bowl, cream together the melted butter, brown sugar and white sugar until well blended. Beat in the vanilla, egg, and egg yolk until light and creamy. Mix in the sifted ingredients until just blended. Stir in the chocolate chips by hand using a wooden spoon. Drop cookie dough 1/4 cup at a time onto the prepared cookie sheets. Cookies should be about 3 inches apart.",
+      "Bake for 15 to 17 minutes in the preheated oven, or until the edges are lightly toasted. Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+    ],
+    "prepTimeMinutes": 10,
+    "cookTimeMinutes": 15,
+    "totalTimeMinutes": 40,
+    "energyContentCalories": 284.7,
+    "fatContentGrams": 13.9,
+    "carbohydrateContentGrams": 40.1,
+    "proteinContentGrams": 2.8,
+    "cholesterolContentMilligrams": 42.0,
+    "sodiumContentMilligrams": 110.7,
+    "ingredients": [
+      [
+        473.0,
+        "all-purpose flour (mL)"
+      ],
+      [
+        2.5,
+        "baking soda (mL)"
+      ],
+      [
+        2.5,
+        "salt (mL)"
+      ],
+      [
+        177.375,
+        "unsalted butter, melted (mL)"
+      ],
+      [
+        236.5,
+        "brown sugar (mL)"
+      ],
+      [
+        118.25,
+        "sugar (mL)"
+      ],
+      [
+        15.0,
+        "vanilla extract (mL)"
+      ],
+      [
+        1.0,
+        "egg (unit)"
+      ],
+      [
+        1.0,
+        "egg yolk (unit)"
+      ],
+      [
+        473.0,
+        "semisweet chocolate chips (mL)"
+      ]
+    ]
+  }
+]
